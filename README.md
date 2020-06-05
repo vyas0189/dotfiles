@@ -2,8 +2,8 @@
 
 ### ZSH (powerlevel10k)
 
-![ZSH Terminal](images/zsh.png)
+![ZSH Terminal](images/zsh.PNG)
 
 ### VIM
 
-![VIM](images/vim.png)
+![VIM](images/vim.PNG)
