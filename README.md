@@ -1,6 +1,6 @@
 ## DOTFILES
 
-### ZSH (powerlevel10k)
+### ZSH
 
 ![ZSH Terminal](images/zsh.PNG)
 
